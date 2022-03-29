@@ -6,7 +6,7 @@ UTS Mobile Programming
 
 Anggota Kelompok 
 - Gloria Valerie Lao 535200049
-- Tiffany Wijaya 535200057
+- Tiffany 535200057
 - Fernando 535199201
 
 ## Getting Started
